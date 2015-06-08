@@ -36,6 +36,12 @@
     <ClInclude Include="p4_find_path.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="p6_possible_number.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="p7_LinkList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -54,6 +60,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p4_find_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p6_possible_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p7_linklist_cross_check.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

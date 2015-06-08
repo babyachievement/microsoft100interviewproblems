@@ -6,14 +6,17 @@
 #pragma once
 
 #include "targetver.h"
+
+#include <stdio.h>
+#include <tchar.h>
+#include <iostream>
+
+
+// TODO:  在此处引用程序需要的其他头文件
+
 #include "p1_bst_to_dlnk.h"
 #include "p2_quick_min.h"
 #include "p3_sub_array_maxsum.h"
 #include "p4_find_path.h"
-
-#include <stdio.h>
-#include <tchar.h>
-
-
-
-// TODO:  在此处引用程序需要的其他头文件
+#include "p6_possible_number.h"
+#include "p7_LinkList.h"

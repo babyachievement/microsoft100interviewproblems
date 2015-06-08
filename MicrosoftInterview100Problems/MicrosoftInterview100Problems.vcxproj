@@ -83,6 +83,8 @@
     <ClInclude Include="p2_quick_min.h" />
     <ClInclude Include="p3_sub_array_maxsum.h" />
     <ClInclude Include="p4_find_path.h" />
+    <ClInclude Include="p6_possible_number.h" />
+    <ClInclude Include="p7_LinkList.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
@@ -92,6 +94,8 @@
     <ClCompile Include="p2_quick_min.cpp" />
     <ClCompile Include="p3_sub_array_maxsum.cpp" />
     <ClCompile Include="p4_find_path.cpp" />
+    <ClCompile Include="p6_possible_number.cpp" />
+    <ClCompile Include="p7_linklist_cross_check.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
